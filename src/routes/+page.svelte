@@ -1,4 +1,6 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<div class="flex justify-center items-center align-middle h-screen">
+	<a class="btn btn-primary" href="/day-1"> Day 1 </a>
+</div>
 
 <style lang="postcss">
 	:global(html) {
